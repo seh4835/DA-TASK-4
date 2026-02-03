@@ -1,0 +1,8 @@
+## requirements.txt`
+**Purpose:**  
+Lists required Python libraries.
+
+```txt
+pandas
+numpy
+matplotlib
